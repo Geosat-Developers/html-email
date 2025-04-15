@@ -1,0 +1,167 @@
+<mjml>
+  <mj-head>
+    <mj-title>Geosat - Advanced Vessel Monitoring Solutions</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" color="#333" line-height="1.6" />
+      <mj-text font-size="14px" />
+      <mj-section padding="0" />
+      <mj-column padding="0" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .features li::before {
+        content: "\2714\0020";
+        color: #69aa89;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f9f9f9">
+
+    <mj-section background-color="#ffffff" padding="20px" border-radius="8px" border-top="20px solid rgb(105, 170, 138)">
+      <mj-column>
+        <mj-image width="150px" src="https://geosat.co.id/wp-content/uploads/2021/10/Logo-Geosat-New-v.3.png" alt="Geosat Logo" align="center" />
+        <mj-text font-size="24px" color="rgb(105, 170, 138)" align="left" font-weight="bold">Advanced Satellite-Based Vessel Monitoring with Geosat</mj-text>
+        <mj-text font-weight="bold" font-size="17px">"Global connectivity for maritime operations—without limits or compromise."</mj-text>
+        <mj-text>Geosat is a trusted provider of maritime technology and satellite communication services, delivering reliable vessel monitoring solutions across Indonesia and beyond.</mj-text>
+
+        <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold">Why Choose Geosat?</mj-text>
+        <mj-text>
+          <ul class="features">
+            <li>Over a decade of experience in marine and satellite communication industries </li>
+            <li>Certified and reliable hardware/software solutions</li>
+            <li>Seamless integration with existing monitoring systems</li>
+            <li>Global technical support and training</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="20px">
+
+      <mj-column>
+        <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold">Our Highlight: BlueTraker VMS</mj-text>
+        <mj-image src="https://geosat.co.id/wp-content/uploads/2021/11/bluetrakervms-geosat.png" alt="BlueTraker VMS" border-radius="5px" />
+      </mj-column>
+
+      <mj-column>
+        <mj-text padding-top="40px" font-size="17px">
+        <span style="color:rgb(105, 170, 138)"><b>BlueTraker VMS</b></span> Designed for long-term, autonomous operation with support for <b>GNSS, GSM, and Iridium.</b> Includes a powerful <b>web-based dashboard</b> and compatibility with <b>multiple satellite systems.</b></mj-text>
+        <mj-button background-color="rgb(105, 170, 138)" align="left" color="#fff" href="https://geosat.co.id/bluetraker-vms/"> Read More</mj-button>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-spacer></mj-spacer>
+
+    <mj-section background-color="#eafaf1" padding="20px" border-radius="20px">
+      <mj-column>
+        <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold" align="center">
+          SmartOne Solar
+        </mj-text>
+        <mj-image src="https://geosat.co.id/wp-content/uploads/2021/10/SmartOne-Solar-1a.png" width="80px" border-radius="50%" align="center" padding="20px 0" />
+        <mj-text>Perfect for small vessels like fishing boats or tugboats.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <ul class="features">
+            <li>Vessel Monitoring System using Iridium Satellite technology</li>
+            <li>Solar-powered and IP69-rated for durability</li>
+            <li>GlobalStar satellite connectivity</li>
+            <li>Easy deployment and minimal maintenance</li>
+          </ul>
+        </mj-text>
+        <mj-button background-color="rgb(105, 170, 138)" color="#fff" href="https://wa.me/6281908192559?text=Halo%20Geomatika%20Satelit%20Indonesia%2C%20Saya%20tertarik%20dengan%20Smart%20One%20Solar.">Whatsapp</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer></mj-spacer>
+
+    <mj-section background-color="#eafaf1" padding="20px" border-radius="20px">
+      <mj-column>
+        <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold" align="center">
+          BlueTraker SASS
+        </mj-text>
+        <mj-image src="https://geosat.co.id/wp-content/uploads/2021/11/bluetrakerssas-geosat.png" width="120px" border-radius="50%" align="center" padding="20px 0" />
+        <mj-text>Ideal for maritime security and vessel tracking.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <ul class="features">
+            <li>Ship Security Alert System (SSAS) using Iridium Satellite technology</li>
+            <li>Double-shell housing for durability in extreme conditions</li>
+            <li>Compliant with SOLAS regulations for maritime safety</li>
+            <li>Easy installation and reliable performance in harsh environments</li>
+          </ul>
+        </mj-text>
+        <mj-button background-color="#69aa8a" color="#fff" href="https://wa.me/6281908192559?text=Halo%20Geomatika%20Satelit%20Indonesia%2C%20Saya%20tertarik%20dengan%20BlueTraker%20SASS.">Whatsapp</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer></mj-spacer>
+
+    <mj-section background-color="#eafaf1" padding="20px" border-radius="20px">
+      <mj-column>
+        <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold" align="center">
+          ST 6100 Series
+        </mj-text>
+        <mj-image src="https://geosat.co.id/wp-content/uploads/2021/10/ST6100a.png" width="120px" border-radius="50%" align="center" padding="20px 0" />
+        <mj-text>Perfect for both land and maritime deployments.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <ul class="features">
+            <li>Two-way satellite connectivity for remote monitoring and control</li>
+            <li>Built-in antenna suitable for versatile installations</li>
+            <li>Ideal for industrial assets such as vehicles, railcars, fishing vessels, heavy equipment, and SCADA applications</li>
+            <li>Features advanced navigation systems, expanded memory, and a built-in accelerometer for enhanced performance</li>
+          </ul>
+        </mj-text>
+        <mj-button background-color="rgb(105, 170, 138)" color="#fff" href="https://wa.me/6281908192559?text=Halo%20Geomatika%20Satelit%20Indonesia%2C%20Saya%20tertarik%20dengan%20RPM%20ST%206100%20Series.">Whatsapp</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer></mj-spacer>
+
+    <mj-section background-color="#ffffff" padding="20px" border-radius="8px">
+      <mj-column>
+        <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold">Who We Serve</mj-text>
+        <mj-text>Government fisheries agencies, maritime enforcement units, offshore operators, and commercial vessel owners.</mj-text>
+
+        <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold">Certified & Compliant</mj-text>
+        <mj-text>Our products meet international standards:</mj-text>
+        <mj-text>
+          <ul class="features">
+            <li>EU Fisheries Control Regulations</li>
+            <li>NEAFC, NAFO, and SEAFO requirements</li>
+            <li>IMO and SOLAS guidelines</li>
+            <li>IP67 ruggedized environment</li>
+          </ul>
+        </mj-text>
+
+        <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold">Join the Digital Maritime Revolution</mj-text>
+         <mj-text font-weight="bold" font-size="17px">"Equip your fleet with the latest VMS technology for efficient, compliant, and connected operations."</mj-text>
+         <mj-spacer></mj-spacer>
+        <mj-button background-color="rgb(105, 170, 138)" color="#fff" href="https://geosat.co.id/product/">Explore More Product!</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 0" background-color="#eafaf1">
+      <mj-column>
+        <mj-text align="center" font-size="16px" font-weight="bold">Connect with us:</mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="center">
+          <mj-social-element name="web" href="https://geosat.co.id"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/geosatindonesia/"></mj-social-element>
+          <mj-social-element name="twitter" href="https://x.com/GeoSatIndonesia"></mj-social-element>
+          <mj-social-element name="facebook" href="https://www.facebook.com/geomatikasatelitindonesia/"></mj-social-element>
+        </mj-social>
+        <mj-text align="center" font-size="14px">
+          For inquiries, contact us at: <a href="mailto:sales@geosat.co.id" style="color: #69aa89;">sales@geosat.co.id</a>
+        </mj-text>
+        <mj-text align="center" font-size="14px">
+          Visit us: Jl. Bungur Besar Raya No. 85, Kemayoran, Jakarta 10620
+        </mj-text>
+        <mj-text align="center" font-size="14px">&copy; 2025 Geosat. All rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
