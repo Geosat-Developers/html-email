@@ -121,6 +121,29 @@
 
     <mj-spacer></mj-spacer>
 
+    <mj-section background-color="#eafaf1" padding="20px" border-radius="20px">
+      <mj-column>
+        <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold" align="center">
+          RPM
+        </mj-text>
+        <mj-image src="https://raw.githubusercontent.com/Geosat-Developers/html-email/refs/heads/main/resources/iot.png" width="120px" border-radius="50%" align="center" padding="20px 0" />
+        <mj-text>Real-time fuel tracking and management for optimized operations.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <ul class="features">
+            <li>Key components: fuel sensors, GPS, data recorders, and centralized software</li>
+            <li>Reports: fuel usage, mileage, drain events, and refills</li>
+            <li>Advanced flowmeters: high-accuracy Oval and Coriolis types</li>
+            <li>Ship platform: integrates hardware and software, with satellite-based data transmission</li>
+          </ul>
+        </mj-text>
+        <mj-button background-color="rgb(105, 170, 138)" color="#fff" href="https://wa.me/6281908192559?text=Halo%20Geomatika%20Satelit%20Indonesia%2C%20Saya%20tertarik%20dengan%20RPM%20ST%206100%20Series.">Whatsapp</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer></mj-spacer>
+
     <mj-section background-color="#ffffff" padding="20px" border-radius="8px">
       <mj-column>
         <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold">Who We Serve</mj-text>
