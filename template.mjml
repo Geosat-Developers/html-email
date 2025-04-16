@@ -63,9 +63,9 @@
       <mj-column>
         <mj-text>
           <ul class="features">
-            <li>Vessel Monitoring System using Iridium Satellite technology</li>
+            <li>Vessel Monitoring System using GlobalStar Satellite technology</li>
             <li>Solar-powered and IP69-rated for durability</li>
-            <li>GlobalStar satellite connectivity</li>
+            <li>Bluetooth interface for configuration and firmware updating</li>
             <li>Easy deployment and minimal maintenance</li>
           </ul>
         </mj-text>
@@ -115,7 +115,7 @@
             <li>Features advanced navigation systems, expanded memory, and a built-in accelerometer for enhanced performance</li>
           </ul>
         </mj-text>
-        <mj-button background-color="rgb(105, 170, 138)" color="#fff" href="https://wa.me/6281908192559?text=Halo%20Geomatika%20Satelit%20Indonesia%2C%20Saya%20tertarik%20dengan%20RPM%20ST%206100%20Series.">Whatsapp</mj-button>
+        <mj-button background-color="rgb(105, 170, 138)" color="#fff" href="https://wa.me/6281908192559?text=Halo%20Geomatika%20Satelit%20Indonesia%2C%20Saya%20tertarik%20dengan%20ST%206100%20Series.">Whatsapp</mj-button>
       </mj-column>
     </mj-section>
 
@@ -124,10 +124,12 @@
     <mj-section background-color="#eafaf1" padding="20px" border-radius="20px">
       <mj-column>
         <mj-text font-size="18px" color="rgb(105, 170, 138)" font-weight="bold" align="center">
-          RPM
+          Fuel Monitoring System
         </mj-text>
         <mj-image src="https://raw.githubusercontent.com/Geosat-Developers/html-email/refs/heads/main/resources/iot.png" width="120px" border-radius="50%" align="center" padding="20px 0" />
         <mj-text>Real-time fuel tracking and management for optimized operations.</mj-text>
+        <mj-spacer height="30px"></mj-spacer>
+        <mj-button background-color="rgb(170, 105, 105)" color="#fff" href="https://raw.githubusercontent.com/Geosat-Developers/html-email/refs/heads/main/resources/Vessel%20Monitoring%20System%20.pdf">Brochure</mj-button>
       </mj-column>
       <mj-column>
         <mj-text>
@@ -138,7 +140,7 @@
             <li>Ship platform: integrates hardware and software, with satellite-based data transmission</li>
           </ul>
         </mj-text>
-        <mj-button background-color="rgb(105, 170, 138)" color="#fff" href="https://wa.me/6281908192559?text=Halo%20Geomatika%20Satelit%20Indonesia%2C%20Saya%20tertarik%20dengan%20RPM%20ST%206100%20Series.">Whatsapp</mj-button>
+        <mj-button background-color="rgb(105, 170, 138)" color="#fff" href="https://wa.me/6281908192559?text=Halo%20Geomatika%20Satelit%20Indonesia%2C%20Saya%20tertarik%20dengan%20RPM.">Whatsapp</mj-button>
       </mj-column>
     </mj-section>
 
